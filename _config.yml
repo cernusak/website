@@ -1,3 +1,8 @@
 title: Jeremiah Cernusak
 description: System Administrator, Hardware & Software Enthusiast
 theme: minima
+
+minima:
+  skin: auto
+
+  
